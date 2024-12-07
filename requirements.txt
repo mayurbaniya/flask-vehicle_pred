@@ -4,4 +4,4 @@ joblib
 CORS
 pandas
 flask_cors
-sklearn
+scikit-learn
