@@ -3,3 +3,4 @@ Gunicorn
 joblib
 CORS
 pandas
+flask_cors
