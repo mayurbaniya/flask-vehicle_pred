@@ -28,7 +28,7 @@ def predict():
     pred_list = [round(pred) for pred in predictions]  
     
     return jsonify({
-        pred_list[0]
+        "prediction": f"{pred_list[0]}"
     })
 
 if __name__ == '__main__':
